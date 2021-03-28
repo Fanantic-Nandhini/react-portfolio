@@ -1,0 +1,22 @@
+.about {
+  padding: 5% 10%;
+}
+
+.about__title {
+  padding-left: 13% !important;
+  text-transform: uppercase;
+  color: #007bff;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+}
+
+.about__content {
+  line-height: 25px;
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+.about__highlight {
+  font-weight: 700;
+}

@@ -1,0 +1,20 @@
+.projects {
+  padding: 8% 10%;
+}
+
+.project__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  color: #007bff;
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+}
+
+.projects__img {
+  height: 10%;
+  width: 10%;
+  float: right;
+}

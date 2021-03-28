@@ -1,0 +1,44 @@
+.intro {
+  padding: 8% 10%;
+}
+
+.intro__hello {
+  font-size: 2.5rem;
+  /* font-style: italic; */
+  font-weight: 10 !important;
+}
+
+.intro__tagline {
+  padding-top: 40px;
+  font-size: 2.75rem;
+  line-height: 1.5;
+}
+
+.intro__contact {
+  padding-top: 40px;
+  font-size: 1.5rem;
+}
+
+.name {
+  font-weight: 700;
+}
+
+.intro__resume {
+  padding-top: 5%;
+  font-size: 1.5rem;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.intro__tagbg {
+  padding-left: 25px;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  background-image: url('../Images/woman-tech.png');
+  display: inline-block;
+  vertical-align: text-top;
+  background-size: contain;
+}
