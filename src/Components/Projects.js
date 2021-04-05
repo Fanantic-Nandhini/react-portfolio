@@ -57,8 +57,8 @@ const Projects = () => {
               title = 'My Portfolio - ReactJS '
               detailDescription = 'Created my own portfolio using ReactJS. I have included all my bio and project details with github links provided.'
               technologyStack = {['Reactjs']}
-              githubLink = 'https://crazyblackfactory.herokuapp.com/'
-              visitSiteLink = 'https://crazyblackfactory.herokuapp.com/' />
+              githubLink = 'https://github.com/Fanantic-Nandhini/react-portfolio/tree/development'
+              visitSiteLink = 'https://nandhinic.herokuapp.com/' />
             </Col>
           </Row>
         </Container>
