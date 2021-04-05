@@ -1,14 +1,29 @@
 .skills {
-  padding: 10% 10%;
+  padding: 5% 10%;
 }
 
 .skills__title {
-  padding-left: 15% !important;
+  text-align: center;
   text-transform: uppercase;
   color: #007bff;
   font-weight: 700;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   letter-spacing: 2px;
+}
+
+.skills__desc {
+  padding-bottom: 15px;
+  border-bottom-style: solid;
+  border-bottom-width: 3.1px;
+  width: fit-content;
+}
+
+.skills__list {
+  text-align: center;
+  margin: 55px;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 1px;
 }
 
 .skills__heading {

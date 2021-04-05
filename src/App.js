@@ -8,6 +8,7 @@ import Projects from './Components/Projects';
 import Footer from './Components/Footer';
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css'
+import Contact from './Components/Contact';
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Experience />
       {/* <Education /> */}
       <Projects />
+      <Contact />
       <Footer />
     </>
   )

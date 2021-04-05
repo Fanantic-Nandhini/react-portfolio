@@ -1,16 +1,33 @@
 .projects {
-  padding: 8% 10%;
+  padding: 5% 10%;
 }
 
-.project__title {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.projects__title {
+  text-align: center;
   text-transform: uppercase;
   color: #007bff;
   font-weight: 700;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   letter-spacing: 2px;
+}
+
+.projects__desc {
+  padding-bottom: 15px;
+  border-bottom-style: solid;
+  border-bottom-width: 3.1px;
+  width: fit-content;
+}
+
+.projects__list {
+  margin-top: 100px;
+}
+
+.projects__listdesc {
+  margin-top: 20px;
+}
+
+.projects__row {
+  margin-bottom: 40px;
 }
 
 .projects__img {
